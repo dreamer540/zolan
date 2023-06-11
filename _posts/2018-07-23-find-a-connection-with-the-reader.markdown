@@ -2,7 +2,8 @@
 layout: post
 title:  Find a connection with the reader
 date:   2018-07-24 15:01:35 +0300
-image:  02.jpg
+image:  http://www.youtube.com/watch_videos?video_ids=CSYQtkeNvgM,HeVsjne9qeU,921x32XFvlw![image](https://github.com/dreamer540/zolan/assets/37493038/5c8ab097-5df1-43df-a719-2d67ecf31394)
+
 tags:   Resources
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
